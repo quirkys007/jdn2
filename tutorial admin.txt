@@ -1,0 +1,11 @@
+lokasi data basse di folder  > data_base 
+
+untuk masuk ke admin panel menambahkan (/admin)
+contoh : http://localhost/jdn/admin/
+
+untuk login admin    : admin
+            password : 12345
+
+
+php versi 7.4
+
